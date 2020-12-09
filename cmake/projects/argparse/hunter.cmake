@@ -11,11 +11,11 @@ hunter_add_version(
     PACKAGE_NAME
     argparse
     VERSION
-    "2.1"
+    "d0758e0"
     URL
-    "https://github.com/p-ranav/argparse/archive/v2.1.tar.gz"
+    "https://github.com/p-ranav/argparse/archive/d0758e0.tar.gz"
     SHA1
-    27f7b4934d5bed897d230283b733d53170001bed
+    4d2f3b9107f85bbe407c8c753e540e34df46dd7d
 )
 
 #hunter_cmake_args(
